@@ -16,18 +16,6 @@
       <scope>test</scope>
     </dependency>
    
-    <dependency>
-        <groupId>org.slf4j</groupId>
-        <artifactId>slf4j-api</artifactId>
-        <version>1.7.7</version>
-    </dependency>
-    
-   <dependency>
-       <groupId>com.couchbase.client</groupId>
-       <artifactId>java-client</artifactId>
-       <version>2.2.0-dp</version>
-    </dependency>
-  
    <dependency>
         <groupId>com.couchbase.client</groupId>
         <artifactId>kafka-connector</artifactId>
